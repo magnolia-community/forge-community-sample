@@ -1,0 +1,10 @@
+templateScript: /forge-community-sample/templates/pages/dummy-page.ftl
+renderType: freemarker
+visible: true
+dialog: forge-community-sample:pages/dummy-page-properties
+areas:
+  main:
+    renderType: freemarker
+    availableComponents:
+      dummy-component:
+        id: forge-community-sample:components/dummy-component
