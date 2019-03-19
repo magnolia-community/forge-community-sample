@@ -1,6 +1,6 @@
 # <MY_MODULE_NAME>
 
-[![Build Status](https://travis-ci.com/magnolia-community/<MY_REPO_PATH>.svg?branch=master)](https://travis-ci.com/magnolia-community/<MY_REPO_PATH>)
+[![Build Status](https://travis-ci.com/magnolia-community/<MY_REPO_PATH>.svg?branch=master)](https://travis-ci.com/magnolia-community/<MY_REPO_PATH>) [![Magnolia compatibility](https://img.shields.io/badge/magnolia-<MAGNOLIA_VERSION>-brightgreen.svg)](https://www.magnolia-cms.com)
 
 <SHORT_INTRODUCTION>
 

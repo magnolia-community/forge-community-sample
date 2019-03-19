@@ -2,7 +2,7 @@
 
 <!-- (starter?) -->
 
-[![Build Status](https://travis-ci.com/magnolia-community/forge-community-sample.svg?branch=master)](https://travis-ci.com/magnolia-community/forge-community-sample)
+[![Build Status](https://travis-ci.com/magnolia-community/forge-community-sample.svg?branch=master)](https://travis-ci.com/magnolia-community/forge-community-sample) [![Magnolia compatibility](https://img.shields.io/badge/magnolia-6.0-brightgreen.svg)](https://www.magnolia-cms.com)
 
 The easiest way to start a Magnolia Forge project is to clone this repository. 
 The POM file includes a reference to Magnolia's Nexus repository, so you can 
