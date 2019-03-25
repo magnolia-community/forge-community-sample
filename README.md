@@ -45,8 +45,8 @@ If you would like to deploy to Magnolia's Nexus, you will need to do a manual
 release. Please follow the steps below.
 
 Either way, please include release coordinates in your README so that your 
-module can be used by others. The [README blueprint][blueprint] will provide 
-you with a template that's easy to adapt.
+module can be used by others. The [README blueprint][blueprint] provides you 
+with a template that's easy to adapt.
 
 ## Setting your Maven up
 
